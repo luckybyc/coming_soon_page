@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/coming-soon/static/css/main.931e3d42.chunk.css",
+    "main.js": "/coming-soon/static/js/main.d9db9f65.chunk.js",
+    "main.js.map": "/coming-soon/static/js/main.d9db9f65.chunk.js.map",
+    "runtime-main.js": "/coming-soon/static/js/runtime-main.7af92772.js",
+    "runtime-main.js.map": "/coming-soon/static/js/runtime-main.7af92772.js.map",
+    "static/js/2.55ab6ccb.chunk.js": "/coming-soon/static/js/2.55ab6ccb.chunk.js",
+    "static/js/2.55ab6ccb.chunk.js.map": "/coming-soon/static/js/2.55ab6ccb.chunk.js.map",
+    "index.html": "/coming-soon/index.html",
+    "precache-manifest.637eb7b7d0d87fe169a2d97b0360b33a.js": "/coming-soon/precache-manifest.637eb7b7d0d87fe169a2d97b0360b33a.js",
+    "service-worker.js": "/coming-soon/service-worker.js",
+    "static/css/main.931e3d42.chunk.css.map": "/coming-soon/static/css/main.931e3d42.chunk.css.map",
+    "static/js/2.55ab6ccb.chunk.js.LICENSE.txt": "/coming-soon/static/js/2.55ab6ccb.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/coming-soon/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/facebook.50f13391.svg": "/coming-soon/static/media/facebook.50f13391.svg",
+    "static/media/instagram.2234448d.svg": "/coming-soon/static/media/instagram.2234448d.svg",
+    "static/media/sahajomy.png": "/coming-soon/static/media/sahajomy.b51e2abd.png",
+    "static/media/twitter.a50716dd.svg": "/coming-soon/static/media/twitter.a50716dd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7af92772.js",
+    "static/js/2.55ab6ccb.chunk.js",
+    "static/css/main.931e3d42.chunk.css",
+    "static/js/main.d9db9f65.chunk.js"
+  ]
+}
